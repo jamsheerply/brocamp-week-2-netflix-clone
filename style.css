@@ -65,13 +65,36 @@
 }
 #page-1 {
   height: 200px;
-  /* background-color: black; */
 }
 #s2 .col-sm-6 {
   border: 2px solid black;
   background-color: black;
   height: 500px;
   width: 100%;
+}
+#s2 h1{
+  color: #fff;
+}
+#s2 p{
+  color: #fff;
+}
+#s3 h1{
+  color: #fff;
+}
+#s3 p{
+  color: #fff;
+}
+#s4 h1{
+  color: #fff;
+}
+#s4 p{
+  color: #fff;
+}
+#s5 h1{
+  color: #fff;
+}
+#s5 p{
+  color: #fff;
 }
 #s6 h1{
   color: aliceblue;
